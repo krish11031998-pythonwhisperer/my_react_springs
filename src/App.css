@@ -21,6 +21,7 @@ body {
 
 .App {
   text-align: center;
+  position: relative;
 }
 
 .logo {
@@ -29,6 +30,7 @@ body {
 
 .App-header {
   display: flex;
+  height:10vh;
   justify-content: space-between;
   font-size: calc(10px + 2vmin);
   color: white;

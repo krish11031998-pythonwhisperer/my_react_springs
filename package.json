@@ -6,7 +6,9 @@
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "2.1.8",
-    "react-spring": "^8.0.19"
+    "react-spring": "^8.0.19",
+    "react-springs": "^1.1.0",
+    "styled-components": "^5.2.1"
   },
   "scripts": {
     "start": "react-scripts start",
